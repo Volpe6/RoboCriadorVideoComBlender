@@ -1,0 +1,6 @@
+env
+.env
+data.json
+assets/img/*
+assets/video/*
+assets/model_fasttext
